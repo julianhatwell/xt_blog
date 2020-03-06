@@ -7,10 +7,10 @@ type: "page"
 ### Short Version:
 
 I offer prospective partners/clients/employers a rare combination of skills and experience:
-* technical expertise (machine learning, analytics, data science)
-* senior management experience (strategic and operational, recruitment and talent development, org change)
-* project leadership (program director, project manager, business analyst, Scrum Master, Scrum Product Owner, Kanban)
-* soft/interpersonal skills (facilitator, trainer and educator, workshop design and delivery)
+*  technical expertise (machine learning, analytics, data science)
+*  senior management experience (strategic and operational, recruitment and talent development, org change)
+*  project leadership (program director, project manager, business analyst, Scrum Master, Scrum Product Owner, Kanban)
+*  soft/interpersonal skills (facilitator, trainer and educator, workshop design and delivery)
 
 ### Long Version:
 
