@@ -1,4 +1,4 @@
-baseURL = "xai.today"
+baseURL = "https://xai-today.netlify.com"
 languageCode = "en-gb"
 title = "XAI Today"
 theme = "ezhil"
