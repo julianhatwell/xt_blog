@@ -1,5 +1,5 @@
-baseURL = "xai-today.netlify.com"
-languageCode = "en-gb"
+baseURL = "https://xaitoday.netlify.com"
+languageCode = "en-us"
 title = "XAI Today"
 theme = "ezhil"
 paginate = 5
