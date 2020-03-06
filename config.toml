@@ -1,62 +1,70 @@
-baseURL = "http://xai.today/"
-languageCode = "en-gb"
+baseURL = "http://example.org/"
+languageCode = "en-us"
 title = "XAI Today"
-theme = "minimal"
-disqusShortname = "julianhatwell" # delete this to disable disqus comments
-# googleAnalytics = ""
+theme = "ezhil"
+paginate = 5
+
+copyright = "© Copyright notice"
+
+pygmentsstyle = "solarized-dark"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+# googleAnalytics = "UA-123-45"
+disqusShortname = "julianhatwell"
+
+summaryLength = 20
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-    author = "Julian Hatwell"
-    description = "Commentaries on Machine Learning, Data Mining and Analytics."
-    githubUsername = "julianhatwell"
-    accent = "#FFAA00"
-    showBorder = true
-    backgroundColor = "white"
-    font = "Ubuntu" # should match the name on Google Fonts!
-    highlight = true
-    highlightStyle = "default"
-    highlightLanguages = ["r", "python", "scala"]
+	subtitle = "Machine Learning, Data Mining and Analytics"
+	disableDisqusTypes = ["page"]
+	featherIconsCDN = true
+	mode = "auto" # "dark", "auto", "light"
+	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
+	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
+	# customJS = ["https://code.jquery.com/jquery-3.4.1.js", "js/custom1.js"]  # Custom JS scripts.
 
 [[menu.main]]
-    url = "/"
-    name = "Home"
-    weight = 1
+name = "Home"
+url = "/"
+weight = 1
 
 [[menu.main]]
-    url = "/post/"
-    name = "Posts"
-    weight = 2
-    
+name = "All posts"
+url = "/post"
+weight = 2
+
 [[menu.main]]
-    url = "/about/"
-    name = "About"
-    weight = 3
+name = "About"
+url = "/about"
+weight = 3
 
-# Social icons to be shown on the right-hand side of the navigation bar.
-# The "name" field should match the name of the icon in Font Awesome.
-# The list of available icons can be found at http://fontawesome.io/icons.
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
 
-[[menu.icon]]
-    url = "mailto:julian@xai.today"
-    name = "envelope-o"
-    weight = 1
+[[params.social]]
+name = "Email"
+icon = "mail"
+url = "mailto:julian@xai.today"
 
-[[menu.icon]]
-    url = "https://github.com/julianhatwell/"
-    name = "github"
-    weight = 2
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/julianhatwell/"
 
-[[menu.icon]]
-    url = "https://twitter.com/julianhatwell/"
-    name = "twitter"
-    weight = 3
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/julian-hatwell-2297855/"
 
-[[menu.icon]]
-    url = "https://www.linkedin.com/in/julian-hatwell-2297855/"
-    name = "linkedin"
-    weight = 4
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/julianhatwell"
 
-[[menu.icon]]
-    url = "https://www.instagram.com/julianhatwell/"
-    name = "instagram"
-    weight = 5
+[taxonomies]
+   tag = "tags"

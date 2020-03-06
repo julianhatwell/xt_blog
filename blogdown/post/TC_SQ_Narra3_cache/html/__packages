@@ -1,0 +1,11 @@
+base
+readr
+dplyr
+lattice
+vcd
+coda
+rjags
+BayesianFirstAid
+MASS
+MCMCpack
+MCMCvis
