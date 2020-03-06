@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Julian Hatwell"
 date: 2020-03-03T21:15:00+00:00
 type: "page"
 ---
@@ -7,14 +7,14 @@ type: "page"
 ### Short Version:
 
 I offer prospective partners/clients/employers a rare combination of skills and experience:
-*  technical expertise (machine learning, analytics, data science)
-*  senior management experience (strategic and operational, recruitment and talent development, org change)
-*  project leadership (program director, project manager, business analyst, Scrum Master, Scrum Product Owner, Kanban)
-*  soft/interpersonal skills (facilitator, trainer and educator, workshop design and delivery)
+* technical expertise (machine learning, analytics, data science)
+* senior management experience (strategic and operational, recruitment and talent development, org change)
+* project leadership (program director, project manager, business analyst, Scrum Master, Scrum Product Owner, Kanban)
+* soft/interpersonal skills (facilitator, trainer and educator, workshop design and delivery)
 
 ### Long Version:
 
-I am a data professional with 15 yrs experience and MSc in Business Intelligence. I am currently in full-time doctoral studies in data analytics and machine learning; specifically looking at the question of interpretability of black box models. This is a research area better known as "eXplainable Artificial Intelligence" or XAI.
+I am a data professional with 15 yrs corporate experience and 4 years in academia. I hold an MSc in Business Intelligence. I am currently in full-time doctoral studies in data analytics and machine learning; specifically looking at the question of interpretability of black box models. This is a research area better known as "eXplainable Artificial Intelligence" or XAI.
 
 I have held numerous technical leadership positions and run Agile web and software development teams of up to 25 reports and run technical programmes with annual budgets of several million GBP. I have a strong record in staff recruitment and development. My early career included roles in database administration and design, enterprise integration and asynchronous message-based services and management information systems, reports and forecasts using Microssoft SQL Server 2000/2005/2008 R2 enterprise editions.
 
