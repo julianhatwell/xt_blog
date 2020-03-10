@@ -26,4 +26,4 @@ https://en.wikipedia.org/wiki/Cynthia_Rudin
 
 https://users.cs.duke.edu/~cynthia/
 
-*Whenever I can - and not only on IWD - I like to raise the profile of prominent women in STEM (science, technology, engineering and mathematics). I believe that under-representation and a lack of role-models is one of the greatest barriers to solving a lack of diversity and equality in any field. Certainly, there is no lack of talented women in STEM but if young women and girls at school aren't given examples of successful women, this can limit aspirations.*
+*Whenever I can - and not only on IWD - I try to raise the profile of prominent women in STEM (science, technology, engineering and mathematics). Under-representation and a lack of visible role-models is one barrier to increasing diversity and equality in any field. Certainly, there is no lack of talented women in STEM but if young women and girls at school aren't given examples of successful women, this can limit aspirations at the grass roots level.*
